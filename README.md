@@ -1,4 +1,4 @@
-# Project Name: EduQuest
+# Project Name: Scholarly
 
 <h3 align="center">
 Streamline school management, class organization, and add students and faculty.<br>
@@ -23,7 +23,6 @@ The School Management System is a web-based application built using the MERN (Mo
 
 - **Data Visualization:** Students can visualize their performance data through interactive charts and tables, helping them understand their academic performance at a glance.
 
-- **Communication:** Users can communicate effortlessly through the system. Teachers can send messages to students and vice versa, promoting effective communication and collaboration.
 
 ## Technologies Used
 
@@ -63,7 +62,7 @@ npm start
 ```
 Now, navigate to `localhost:3000` in your browser.
 
-### Now, EduQuest project will be start automatically in your default browser, but prefer Microsoft Edge for seamless experience.
+### Now, Scholarly project will be start automatically in your default browser, but prefer Microsoft Edge for seamless experience.
 
 
 ### Admin Login
@@ -98,9 +97,6 @@ You can use the following student login credentials to access the student panel:
 
 2. Open your web browser and access the project by entering the URL, e.g., [http://localhost:3000](http://localhost:3000) 
 
-You have now successfully run the EduQuest project.
+You have now successfully run the Scholarly project.
 
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
